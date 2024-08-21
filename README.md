@@ -4,7 +4,7 @@
 This repository contains scripts for automatic speech recognition (ASR) and real-time speech summarization (RTSS) using sequence-to-sequence (seq2seq) models. The provided scripts cover model preparation, training, inference, and evaluation processes, based on the dataset VietMed-Sum.
 
 <p align="center">
-<img src="/VietMed-Sum/RTSS_diagram.png" alt="drawing" width="900"/>
+<img src="RTSS_diagram.png" alt="drawing" width="900"/>
 </p>
 
 ## Dataset and Pre-trained Models:
